@@ -1,0 +1,32 @@
+Kedves <name>!
+
+Köszöntünk a(z) <data1> fejlesztői tesztjén!
+
+Jelentkező adatai
+Név: <name>
+Születési hely: <birthplace>
+Születési dátum: <birthday>
+Jelentkezési státusz: <folyamatban/felvéve/elutasítva>
+
+Feladat leírása
+Készíts egy java alkalmazást, amely segítségével, a mellékelt xml fájl-ban szereplő adatokat, ezen dokumentumban található relációs jelekkel meghatározott placeholder-ek helyére értelem szerűen tölts fel. Továbbá a fejlécben található „[mbh_logo]” helyére kerüljön a csatolmányok között található logó programozottan. A kész forráskódot exportáld ki és mellékletben küld vissza nekünk.
+
+A következő szempontok betartására ügyelj:
+•	<data2>
+•	<data3>
+•	<data4>
+
+Az alábbi táblázatban sorold fel az összes „row-data”-ban szereplő kompetenciákat, melyekre a jövőben támaszkodnod kell.
+Technológia	Leírás
+<value1>	<value2>
+<value1>	<value2>
+<value1>	<value2>
+<value1>	<value2>
+<value1>	<value2>
+
+
+Köszönjük, hogy jelentkeztél!
+
+MBH Bank <data1> csapata.
+
+Budapest, <dátum>
